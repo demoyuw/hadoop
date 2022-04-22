@@ -21,3 +21,11 @@ Please use the included docker-compose.yaml to test it:
 docker-compose build
 docker-compose up -d
 ```
+
+
+
+Shutdown
+
+```
+docker-compose down
+```
